@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARPAN-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ARPAN-2003" /> </p>
 
-- 🌱 I’m currently learning ----> <!-- <p align="right"> -->  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="mysql" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="opencv" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp; <!-- </p> -->
+- 🌱 I’m now learning ---> <!-- <p align="right"> -->  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="24" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="24" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="mysql" width="24" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="opencv" width="24" height="25" /></a>&nbsp; <!-- </p> -->
 
 - 📫 Reach me at - **arpanmitra2003@gmail.com**
 
