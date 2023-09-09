@@ -66,6 +66,10 @@
 </h3>
 <br/>
 
-## Snake eating my all Contributions
-<img alt="Snake Eating my contribution" src="https://github.com/ARPAN-2003/ARPAN-2003/blob/output/github-contribution-grid-snake.svg" />
-<br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ARPAN-2003/ARPAN-2003/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
