@@ -67,4 +67,5 @@
 <br/>
 
 ## Snake eating my all Contributions
-![Snake animation](https://github.com/ARPAN-2003/ARPAN-2003/blob/output/github-contribution-grid-snake.svg)
+<img alt="Snake Eating my contribution" src="https://github.com/ARPAN-2003/ARPAN-2003/blob/output/github-contribution-grid-snake.svg" />
+<br/>
