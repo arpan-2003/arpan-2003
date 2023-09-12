@@ -16,10 +16,10 @@
 </a>
 </p>
 
-- 🌱 I’m now learning ---> <!-- <p align="right"> -->  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="24" height="25" /></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="24" height="25" /></a>&nbsp;&nbsp;
+- 🌱 I’m now learning ---> <!-- <p align="right"> -->  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="24" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="20" height="22" /></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="mysql" width="24" height="25" /></a>&nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="opencv" width="24" height="25" /></a>&nbsp; <!-- </p> -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="24" height="25" /></a>&nbsp; <!-- </p> -->
 
 - 📫 Reach me at - **arpanmitra2003@gmail.com**
 
@@ -46,7 +46,7 @@
 ### Quick Stats about ME 😊😀
 | Top Languages | Github Stats |
 | --- | --- |
-| <img height="220em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/> | <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> |
+| <img height="220em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>&nbsp; | <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> |
 <!-- <p>
   <img height="220em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
@@ -55,7 +55,7 @@
 
 | 🔝 Top Contributed Repo | Github Streak |
 | --- | --- |
-| <img height="220em" width="450em" src="https://github-contributor-stats.vercel.app/api?username=ARPAN-2003&limit=5&combine_all_yearly_contributions=true&layout=compact&theme=tokyonight" alt="ARPAN-2003" /> | <img height="180em" width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARPAN-2003&layout=compact&theme=tokyonight" alt="ARPAN-2003" /> |
+| <img height="220em" width="450em" src="https://github-contributor-stats.vercel.app/api?username=ARPAN-2003&limit=5&combine_all_yearly_contributions=true&layout=compact&theme=tokyonight" alt="ARPAN-2003" />&nbsp; | &nbsp;&nbsp;<img height="180em" width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARPAN-2003&layout=compact&theme=tokyonight" alt="ARPAN-2003" /> |
 <!-- ### 🔝 Top Contributed Repo
 <p>
   <img height="220em" width="450em" src="https://github-contributor-stats.vercel.app/api?username=ARPAN-2003&limit=5&combine_all_yearly_contributions=true&layout=compact&theme=tokyonight" alt="ARPAN-2003" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
