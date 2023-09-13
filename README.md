@@ -46,7 +46,7 @@
 ### Quick Stats about ME 😊😀
 | Top Languages | Github Stats |
 | --- | --- |
-| <img height="220em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>&nbsp; | <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> |
+| <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" --><img height="220em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>&nbsp; | <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> |
 <!-- <p>
   <img height="220em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPAN-2003&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ARPAN-2003&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
@@ -75,6 +75,6 @@
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=80&duration=5000&lines=Thanks+for+visiting+!+✌🏻;You+can+send+me+message+on+Linkedin+or+Telegram+!!;I'm+always+with+you+Guysss+😊😀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=100&duration=5000&lines=Thanks+for+visiting+!+✌🏻;You+can+send+me+message+on+Linkedin+or+Telegram+!!;I'm+always+with+you+Guysss+😊😀">
 </h3>
 <br/>
